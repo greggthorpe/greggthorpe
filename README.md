@@ -1,21 +1,27 @@
-## Hi, I’m Gregg Thorpe
+## Gregg Thorpe | SEO + Search Visibility Systems
 
-I run **First Place Positioning**. I help local and regional service businesses get **more calls and quote requests** from:
-- Google Search and Maps (Local SEO / GBP)
-- Technical SEO and on-page improvements
-- Content systems (strategy + production + optimization)
-- AI-era visibility (AI Overviews and citation-driven discovery)
+Founder of **First Place Positioning** (since 2001). I help local and regional service businesses turn visibility into **calls and quote requests**.
 
-### What I’m Focused On Now
-- Building repeatable SEO systems that tie to leads, not vanity metrics
-- Improving conversion paths after the click (calls, forms, booking)
-- Learning to build small AI tools and micro-SaaS for marketing workflows
+### What I Do
+- **Local SEO / Google Business Profile**: rankings + actions that matter (calls, direction requests, website clicks)
+- **Technical SEO**: crawl/indexing, site performance, templates, internal linking, structured data
+- **Content Strategy + Production**: topic maps, intent-matched pages, refreshes that protect and grow rankings
+- **AI Search Visibility**: improve how your site shows up in AI results and cited answers
 
-### Work With Me
-If you want a quick visibility check and a clear plan of what to fix first, reach out.
+### Current Focus
+- Building small AI tools and micro-SaaS to speed up SEO auditing, content ops, and reporting
+- Shipping practical playbooks for service businesses that want more inbound inquiries
 
+### Collaboration
+Open to collaborating on:
+- SEO workflow automation
+- Local SEO QA checklists and playbooks
+- AI tooling for content and search visibility
+
+### Contact
 - Website: https://firstplacepositioning.com/
 - Call: (610) 768-0357
+
 
 <!---
 greggthorpe/greggthorpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
